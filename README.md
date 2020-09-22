@@ -14,6 +14,7 @@ https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html
 https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
 https://www.w3schools.com/html/html_comments.asp
 https://www.w3schools.com/tags/att_media.asp#:~:text=The%20media%20attribute%20specifies%20what,attribute%20can%20accept%20several%20values.
+https://www.w3schools.com/howto/howto_css_responsive_iframes.asp
 
 
 ## Learned:
@@ -26,6 +27,8 @@ I learned the following:
 - How to set up ssh keys in terminal with my github account
 - Responsive Design
 - How to think about a website's design and layout
+- Proper design, html, and css practice for web development
+- using Developer Tools on websites
 
 
 
