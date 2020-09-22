@@ -2,7 +2,7 @@
 ##### Tiffany Yu
 
 ## Description
-I've never done web development before. Therefore, I wanted to create my own website portfolio to include a little about me, my resume, and how to get in contact with me. 
+I've never done web development before. Therefore, I wanted to create my own website portfolio to include a little about me, my resume, and how to get in contact with me. I used VSCode extension of creating a local server to set up website.
 
 ## Resources Used
 LearnCode.academy's youtube tutorials on Web Development for Beginners
@@ -15,6 +15,13 @@ https://www.w3schools.com/howto/howto_css_image_grid_responsive.asp
 https://www.w3schools.com/html/html_comments.asp
 https://www.w3schools.com/tags/att_media.asp#:~:text=The%20media%20attribute%20specifies%20what,attribute%20can%20accept%20several%20values.
 https://www.w3schools.com/howto/howto_css_responsive_iframes.asp
+https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
+
+## Files
+- REAME.md: describes my work on the project as well as resources used
+- Images folder: stores images used in site
+- index.html: html code for wesbite, defines text and content of page
+- style.css: stores formatting and style of components, deals with responsive design
 
 
 ## Learned:
