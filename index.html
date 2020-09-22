@@ -11,8 +11,7 @@
             <nav>
                 <ul>
                     <li><a href="#About Me">About Me</a></li>
-                    <!-- Do not display this tab at the moment
-                     <li><a href ="#Interests">Interests</a></li> -->
+                     <li><a href ="#Projects">Projects</a></li> 
                     <li><a href ="#Resume">Resume</a></li> 
                     <button><a href="mailto:thetiffanyyu@gmail.com">Contact Me</a></button>               
                 </ul>
@@ -27,7 +26,7 @@
             <section>
                 <h2>About me</h2>
                 <div class = "headshot">
-                    <img src="images/headshot.jpeg" alt="Tiffany's headshot" width=relative height=400>
+                    <img src="images/headshot.jpeg" alt="Tiffany's headshot" class="responsive">
                 </div>
                 <div>
                     <ul>
@@ -39,19 +38,38 @@
                 </div>
             </section>
         </a>
-        <a id ="Interests">
+        <a id ="Projects">
             <section>
-                 <!-- Do not display this section name at the moment
-                <h2>Interests</h2> -->
-                <img src="images/Gallery Wall.png" alt="Gallery wall" width=relative height=relative>
+                <h2>Projects</h2>
+                <div class="row">
+                    <div class="column">
+                    <img src="images/CS50 Maze Solver.png">
+                    </div>
+                    <div class="column">
+                    <img src="images/BAC Bracelet.png">
+                    </div>
+                    <div class="column">
+                    <img src="images/Chuzqo.png">
+                    </div>
+                    <div class="column">
+                    <img src="images/On Task.png">
+                    </div>
+                </div>
             </section>
         </a>
         <a id ="Resume">
             <section>
                 <h2>Resume</h2>
-                <iframe src="images/Tiffany Yu Work Resume.pdf" width="100%" height="1000px">
-                    
-                </iframe>
+                <div class = "container">
+                    <iframe class = "responsive-iframe" src="images/Tiffany Yu Work Resume.pdf"></iframe>
+                </div>
+            </section>
+        </a>
+        <a id ="Interests">
+            <section>
+                 <!-- Do not display this section name at the moment
+                <h2>Interests</h2> -->
+                <img src="images/Gallery Wall.png" alt="Gallery wall" width=relative height=relative>
             </section>
         </a>
         <footer>
