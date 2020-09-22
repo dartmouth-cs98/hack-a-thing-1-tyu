@@ -1,5 +1,5 @@
 # hack-a-thing-1-tyu
-## Tiffany Yu, worked alone
+###### Tiffany Yu
 
 ## Description
 
