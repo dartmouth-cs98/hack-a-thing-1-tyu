@@ -1,0 +1,59 @@
+body {
+    background: pink;
+    color: whitesmoke;
+    outline-color: thistle;
+    font-family:'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type:circle;
+}
+li {
+    font-weight: bold;
+    display: list-item;
+    
+}
+
+nav ul {
+    list-style-position: inside;
+    list-style-type: none;
+    text-align: left;
+}
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+button{
+    border-radius: 8px;
+    width: 300 px;
+    height: 500 px;
+}
+header{
+    background: pink;
+    padding: 20px;
+}
+section {
+    background: white;
+    color: pink;
+    padding: 20 px;
+    text-indent: 20px;
+    margin:auto;
+}
+footer{
+    background: pink;
+    padding: 10px, 20px;
+    text-indent: 20px;
+}
+a{
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
